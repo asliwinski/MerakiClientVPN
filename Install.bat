@@ -1,0 +1,1 @@
+Powershell.exe -ExecutionPolicy Bypass -WindowStyle hidden -noninteractive -nologo -file "%~dp0MerakiClientVPN.ps1"
